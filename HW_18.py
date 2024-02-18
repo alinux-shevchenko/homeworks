@@ -11,7 +11,6 @@ class User:
         self.email = self.validate(email)
 
     def validate(self, email):
-
         try:
             # Validate the email using email-validator
             valid_email = validate_email(email)

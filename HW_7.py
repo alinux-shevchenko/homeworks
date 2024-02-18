@@ -5,9 +5,6 @@ def favourite_movie(name):
     print('My favourite movie is named '+ name)
 favourite_movie('Like minds.')
 
-
-
-
 #task_2
 #Create a function called make_country, which takes in a country’s name and capital as parameters.
 # Then create a dictionary from those two, with ‘name’ as a key and ‘capital’ as a parameter.
