@@ -5,6 +5,9 @@ def favourite_movie(name):
     print('My favourite movie is named '+ name)
 favourite_movie('Like minds.')
 
+
+
+
 #task_2
 #Create a function called make_country, which takes in a country’s name and capital as parameters.
 # Then create a dictionary from those two, with ‘name’ as a key and ‘capital’ as a parameter.
@@ -13,7 +16,7 @@ favourite_movie('Like minds.')
 def make_country(name, capital):
     country_dict = {name: capital}
     print(country_dict)
-make_country('Sweeden','Stockholm')
+make_country('Sweden','Stockholm')
 
 # task_3
 #Create a function called make_operation, which takes in a simple arithmetic operator as a first parameter (to keep things simple let it only be '+', '-' or '*')
