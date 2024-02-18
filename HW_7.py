@@ -15,6 +15,9 @@ def make_country(name, capital):
     print(country_dict)
 make_country('Sweden','Stockholm')
 
+
+
+
 # task_3
 #Create a function called make_operation, which takes in a simple arithmetic operator as a first parameter (to keep things simple let it only be '+', '-' or '*')
 # and an arbitrary number of arguments (only numbers) as the second parameter. Then return the sum or product of all the numbers in the arbitrary parameter. For example:
