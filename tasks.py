@@ -29,3 +29,9 @@ def in_func(value, somelist):
 
 #________________________________________________
 
+def question1 is #3
+def question2 is #5
+def question3 is #2
+def question4 is #6
+def question5 is #4
+def question6 is #1
