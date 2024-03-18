@@ -62,6 +62,3 @@ while True:
     client_sock, client_address = server_socket.accept()
     new_thread = ClientThread(client_address, client_sock)
     new_thread.start()
-
-# task_3
-#
